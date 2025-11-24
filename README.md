@@ -16,7 +16,7 @@ I like the process of creating modern and user-friendly user interfaces, and the
 
 <a href="https://www.linkedin.com/in/ilya-zotov-91ba18212/"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="Ilia | LinkedIn" width="21px"/></a>
 
-<a href="https://t.me/inzotov"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Ilia | Telegram" width="21px"/></a><br/>
+<a href="https://t.me/comisicomisa"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Ilia | Telegram" width="21px"/></a><br/>
 
 ## 💼 Technical Skills
 
